@@ -14,3 +14,8 @@ Article by: https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-
 3. Based on the input query retrieve relevant context from the vector database
 4. Leverage context along with the query to prompt the LLM.
 
+## Links
+1. https://github.com/madhavthaker1/llm/blob/main/rag/e2e_rag.ipynb
+2. https://www.kaggle.com/raghvender/rag-llm-mixtral-langchain/edit
+3. 
+https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146

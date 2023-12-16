@@ -1,0 +1,6 @@
+accelerate
+datasets
+transformers
+bitsandbytes
+trl
+langchain
